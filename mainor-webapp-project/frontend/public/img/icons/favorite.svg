@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>favorite_border-24px</title>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Single-Product" transform="translate(-333.000000, -1200.000000)">
+            <g id="Products" transform="translate(166.000000, 1184.000000)">
+                <g id="Product-1" transform="translate(0.000000, 1.000000)">
+                    <g id="Favorite-icon" transform="translate(162.000000, 10.000000)">
+                        <g id="favorite_border-24px" transform="translate(5.000000, 5.000000)">
+                            <polygon id="Path" points="0 0.5 15 0.5 15 14.5 0 14.5"></polygon>
+                            <path d="M9.425,2.5 C8.294,2.5 7.2085,2.98555858 6.5,3.75286104 C5.7915,2.98555858 4.706,2.5 3.575,2.5 C1.573,2.5 0,3.9506812 0,5.79700272 C0,8.06294278 2.21,9.90926431 5.5575,12.7147139 L6.5,13.5 L7.4425,12.7087193 C10.79,9.90926431 13,8.06294278 13,5.79700272 C13,3.9506812 11.427,2.5 9.425,2.5 Z M6.565,11.8215259 L6.5,11.8814714 L6.435,11.8215259 C3.341,9.23787466 1.3,7.52942779 1.3,5.79700272 C1.3,4.59809264 2.275,3.69891008 3.575,3.69891008 C4.576,3.69891008 5.551,4.29237057 5.8955,5.11362398 L7.111,5.11362398 C7.449,4.29237057 8.424,3.69891008 9.425,3.69891008 C10.725,3.69891008 11.7,4.59809264 11.7,5.79700272 C11.7,7.52942779 9.659,9.23787466 6.565,11.8215259 Z" id="Shape" fill="#282828" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

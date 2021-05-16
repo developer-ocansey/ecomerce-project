@@ -1,0 +1,75 @@
+.change-address,
+.new-address {
+    color: #F68B1E;
+}
+
+.new-address:hover {
+    cursor: pointer
+}
+
+.delivery-active {
+    border: 1px solid #F68B1E;
+    padding: 20px 10px;
+}
+
+.delivery {
+    padding: 20px 10px;
+}
+
+.cd-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.tonnage-container {
+    display: flex !important;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row !important;
+    margin-top: -10px !important;
+}
+
+.tonnage {
+    background-color: #ebebeb;
+    padding: 10px;
+    width: 50px !important;
+    height: 50px !important;
+    margin-right: 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tonnage:hover {
+    border: 1px solid #F68B1E;
+}
+
+.tonnage-active {
+    border: 1px solid #F68B1E;
+}
+
+.tooggle_insurance {
+    color: #0070E0;
+    cursor: pointer;
+}
+
+.rm-insurance {
+    color: rgb(247, 0, 49);
+    cursor: pointer;
+}
+
+.tg_inu {
+    color: #0070E0;
+    cursor: pointer;
+}
+
+.tg_inu_s {
+    color: rgb(247, 0, 49);
+    cursor: pointer;
+}
+
+.pickup-dtls {
+    cursor: text;
+}

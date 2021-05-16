@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path</title>
+    <g id="essentials-icon-pack-deemak-daksina" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-304.000000, -563.000000)" fill="#282828">
+            <g id="down,-bottom,-downward,-arrow,-navigation" transform="translate(303.000000, 562.000000)">
+                <path d="M12.6409,1.2312 C12.2159779,0.879976303 11.5873315,0.937117856 11.2327,1.3592 L7,6.4376 L2.7673,1.3592 C2.54078271,1.07711648 2.17957211,0.939373351 1.82274563,0.999006044 C1.46591916,1.05863874 1.16912509,1.30634734 1.04663848,1.64675624 C0.924151864,1.98716514 0.995074907,2.36718645 1.2321,2.6405 L6.2321,8.6405 C6.42198082,8.86824092 6.70318584,8.99990734 6.9997,8.99990734 C7.29621416,8.99990734 7.57741918,8.86824092 7.7673,8.6405 L12.7673,2.6405 C13.1211219,2.21629022 13.0645623,1.58567729 12.6409,1.2312 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

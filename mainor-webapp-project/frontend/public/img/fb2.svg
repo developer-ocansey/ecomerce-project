@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="18px" viewBox="0 0 9 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Shape</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer" transform="translate(-1099.000000, -488.000000)" fill="#FFFFFF">
+            <g id="Social-icons">
+                <g transform="translate(1099.000000, 488.000000)">
+                    <path d="M5.9847592,18 L1.99410689,18 L1.99410689,8.99886392 L0,8.99886392 L0,5.8973744 L1.99410689,5.8973744 L1.99410689,4.03534461 C1.99410689,1.50530169 3.11948791,0 6.31883763,0 L8.98171103,0 L8.98171103,3.1026256 L7.31741516,3.1026256 C6.0719366,3.1026256 5.98963625,3.53603888 5.98963625,4.34492552 L5.98414956,5.8973744 L9,5.8973744 L8.64702296,8.99886392 L5.98414956,8.99886392 L5.98414956,18 L5.9847592,18 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="19px" viewBox="0 0 17 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>zoom in, magnifier, zoom, magnifying glass, enlarge</title>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Single-Product" transform="translate(-442.000000, -224.000000)" fill="#282828" fill-rule="nonzero">
+            <g id="Favorite-icon" transform="translate(436.000000, 219.500000)">
+                <g id="zoom-in,-magnifier,-zoom,-magnifying-glass,-enlarge" transform="translate(14.500000, 14.000000) scale(-1, 1) translate(-14.500000, -14.000000) translate(6.000000, 5.500000)">
+                    <path d="M10,0 C6.1359484,0.0046835371 3.00468354,3.1359484 3,7 C3.00491696,8.50753193 3.50107579,9.97238182 4.4133,11.1726 L1.2933,14.2926 C1.03334342,14.5436745 0.929087403,14.9154779 1.02060284,15.2651073 C1.11211828,15.6147368 1.38516324,15.8877817 1.73479268,15.9792972 C2.08442211,16.0708126 2.45622553,15.9665566 2.7073,15.7066 L5.8273,12.5866 C7.02753284,13.4988805 8.49242234,13.995076 10,14 C13.8659932,14 17,10.8659932 17,7 C17,3.13400675 13.8659932,0 10,0 Z M10,12 C7.23857625,12 5,9.76142375 5,7 C5,4.23857625 7.23857625,2 10,2 C12.7614237,2 15,4.23857625 15,7 C14.9970788,9.76021285 12.7602128,11.9970788 10,12 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "id": "gokada",
+            "name": "Gokada",
+            "logo": "https://bcd-ng.s3-eu-west-1.amazonaws.com/partners/gokada.svg",
+            "price": 5003
+        }, {
+            "id": "speedad",
+            "name": "Speed AF",
+            "logo": "https://bcd-ng.s3-eu-west-1.amazonaws.com/partners/speedaf-col.jpg",
+            "price": 5030
+        }, {
+            "id": "courierplus",
+            "name": "Courier Plus",
+            "logo": "https://bcd-ng.s3-eu-west-1.amazonaws.com/partners/courierplus-col.png",
+            "price": 5100
+        }, {
+            "id": "tranex",
+            "name": "Tranex",
+            "logo": "https://bcd-ng.s3-eu-west-1.amazonaws.com/partners/tranex.svg",
+            "price": 5060
+        }, {
+            "id": "maxng",
+            "name": "Max.ng",
+            "logo": "https://bcd-ng.s3-eu-west-1.amazonaws.com/partners/maxng.png",
+            "price": 5007
+        }
+    ]
+}

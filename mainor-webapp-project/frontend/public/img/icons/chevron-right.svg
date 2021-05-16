@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="10px" viewBox="0 0 6 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>right, arrow, next, forward, navigation</title>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="User-Account-Orders" transform="translate(-767.000000, -923.000000)" fill="#282828">
+            <g id="Pagination" transform="translate(606.000000, 910.000000)">
+                <g id="right,-arrow,-next,-forward,-navigation" transform="translate(161.000000, 13.000000)">
+                    <path d="M5.73099942,4.36342561 L1.23105868,0.193591386 C0.912739752,-0.101552873 0.439522157,-0.0538722887 0.174097601,0.300088952 C-0.0913269542,0.654050192 -0.0484475908,1.18025417 0.26987134,1.47539843 L4.07862118,5.00449593 L0.26987134,8.53342663 C-0.0403722037,8.83077096 -0.0789042015,9.34980709 0.183290202,9.69969732 C0.445484605,10.0495875 0.911548976,10.10108 1.23053369,9.81540047 L5.73047443,5.64556624 C5.90128368,5.48686023 6,5.25209263 6,5.00457932 C6,4.75706601 5.90128368,4.52229842 5.73047443,4.36359241 L5.73099942,4.36342561 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

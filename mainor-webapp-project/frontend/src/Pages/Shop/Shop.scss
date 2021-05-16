@@ -1,0 +1,31 @@
+.product-img {
+    position: relative !important;
+}
+
+.top-right {
+    position: absolute !important;
+    top: 0;
+    right: 0;
+}
+
+.flex-end {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.save-btn {
+    padding: 0 10px;
+    font-size: 0.9em;
+    color: #0070E0;
+}
+
+.save-btn:hover {
+    cursor: pointer;
+}
+
+.flex-apart {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

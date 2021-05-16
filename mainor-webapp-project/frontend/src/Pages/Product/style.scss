@@ -1,0 +1,31 @@
+.contact-now {
+  color: #f68b1e;
+}
+
+.contact-now:hover {
+  cursor: pointer;
+}
+
+.insure-action {
+  font-weight: 400 !important;
+  color: #f68b1e;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.insure-action-rm {
+  font-weight: 400 !important;
+  color: red;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+@media (max-width: 768px) {
+  .share-product {
+    display: none;
+  }
+}
+
+.txt {
+  color: black;
+}
